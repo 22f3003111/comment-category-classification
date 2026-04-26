@@ -1,6 +1,6 @@
 # Comment Category Prediction
 
-**NLP + Machine Learning pipeline** to classify user comments into 4 categories (general, identity/hate, political, violent/threatening) on a dataset of 300,000 rows. Built as a Kaggle competition submission.
+**NLP + Machine Learning pipeline** to classify user comments into 4 categories (general, identity/hate, political, violent/threatening) on a dataset of 198,000 rows. Built as a Kaggle competition submission.
 
 ---
 
